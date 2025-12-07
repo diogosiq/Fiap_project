@@ -19,7 +19,7 @@ O objetivo é desenvolver um modelo de série temporal capaz de prever o **fecha
 ### **`Dados Históricos - Ibovespa.csv`**  
 Base histórica utilizada para a modelagem, contendo o fechamento diário do Ibovespa.
 
-### **`modelo_preditivo_ibovespa_final_completo_metricas_FIAP_FINAL.ipynb`**  
+### **`modelo_preditivo_ibovespa_completo_metricas_time_series_FIAP_FINAL.ipynb`**  
 Notebook **executado**, contendo todo o passo a passo da análise:
 
 - exploração e storytelling da série temporal  
@@ -89,7 +89,7 @@ Realizada com **Holt-Winters**, que produz uma tendência suavizada e adequada p
 
 1. Acesse: https://colab.research.google.com  
 2. Faça upload de:
-   - `modelo_preditivo_ibovespa_final_completo_metricas_FIAP_FINAL.ipynb`
+   - `modelo_preditivo_ibovespa_completo_metricas_time_series_FIAP_FINAL.ipynb`
    - `Dados Históricos - Ibovespa.csv`
 3. Execute tudo com:
 ```
