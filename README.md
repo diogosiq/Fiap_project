@@ -13,7 +13,7 @@ O objetivo é desenvolver um modelo de série temporal capaz de prever o **fecha
 ```
 .
 ├── Dados Históricos - Ibovespa.csv
-└── modelo_preditivo_ibovespa_final_completo_metricas_FIAP_FINAL.ipynb
+└── modelo_preditivo_ibovespa_completo_metricas_time_series_FIAP_FINAL.ipynb
 ```
 
 ### **`Dados Históricos - Ibovespa.csv`**  
